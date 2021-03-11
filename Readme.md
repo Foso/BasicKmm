@@ -2,11 +2,11 @@
 
 | Android Overview | Details1 |  Details2 |
 | ------------------ | --------------------------- | ------------------ |
-|<img src="https://raw.githubusercontent.com/Foso/MealApp/master/docs/Android1.png" height="400" alt="Screenshot"/>
+|<img src="https://raw.githubusercontent.com/Foso/BasicKmm/master/docs/Android1.png" height="400" alt="Screenshot"/>
 
 | iOS Overview | Details1 |  Details2 |
 | ------------------ | --------------------------- | ------------------ |
-|<img src="https://raw.githubusercontent.com/Foso/MealApp/master/docs/ios1.png" height="400" alt="Screenshot"/>
+|<img src="https://raw.githubusercontent.com/Foso/BasicKmm/master/docs/ios1.png" height="400" alt="Screenshot"/>
 
 ## iOS
 Have tested it on XCode v12.
