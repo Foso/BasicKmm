@@ -1,11 +1,11 @@
 # BasicKmm
 
-| Android Overview | Details1 |  Details2 |
-| ------------------ | --------------------------- | ------------------ |
+| Android Overview |
+| ------------------ |
 |<img src="https://raw.githubusercontent.com/Foso/BasicKmm/master/docs/Android1.png" height="400" alt="Screenshot"/>
 
-| iOS Overview | Details1 |  Details2 |
-| ------------------ | --------------------------- | ------------------ |
+| iOS Overview
+| ------------------ |
 |<img src="https://raw.githubusercontent.com/Foso/BasicKmm/master/docs/ios1.png" height="400" alt="Screenshot"/>
 
 ## iOS
