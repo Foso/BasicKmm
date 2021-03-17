@@ -13,6 +13,10 @@ Have tested it on XCode v12.
 
 Just import the iOS project [iosApp](iosApp/) inside Xcode.
 
+You need to change the Framework Search Path for iosAppUiTest to the path where your shared/build folder is located
+|<img src="https://raw.githubusercontent.com/Foso/BasicKmm/master/docs/xcode.png" height="400" alt="Screenshot"/>
+
+
 The iOS project compiles a Kotlin module to a framework (see [iosApp](iosApp/)). 
 
 
