@@ -599,7 +599,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				CODE_SIGN_STYLE = Automatic;
-				FRAMEWORK_SEARCH_PATHS = "/Users/jklingenberg/Code/2021/BasicKmm/shared/build/xcode-frameworks";
+				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)/../shared/build/xcode-frameworks";
 				INFOPLIST_FILE = iosAppUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -620,7 +620,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				CODE_SIGN_STYLE = Automatic;
-				FRAMEWORK_SEARCH_PATHS = "/Users/jklingenberg/Code/2021/BasicKmm/shared/build/xcode-frameworks";
+				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)/../shared/build/xcode-frameworks";
 				INFOPLIST_FILE = iosAppUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
